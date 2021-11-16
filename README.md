@@ -20,3 +20,7 @@ Attacking the Vulnerable WordPress Server: https://docs.google.com/document/d/1f
 18. Then, typing sudo -l to see what can be ran with root priviliges
 19. Python can be ran as sudo
 20. Using sudo python -c 'import pty;pty.spawn(*/bin/bash*);'
+
+Defending the Vulnerable WordPress Server: https://docs.google.com/document/d/1heVsRaaSnmGCLmteuXy-9ZA2pPpiCMRNsMvZLNEWvKo/edit?usp=sharing
+
+Network Analysis Report: https://docs.google.com/document/d/1dw5fTNFCIRUkAFGE4xmHi_U68J8ruJbatM3oOk5WTgM/edit?usp=sharing
