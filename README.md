@@ -1,5 +1,5 @@
 # Attacking_and_Defending_Vulnerable_Wordpress_Server
-Attacking the Vulnerable WordPress Server:
+Attacking the Vulnerable WordPress Server: https://docs.google.com/document/d/1f0LfeQLo749A6ygmD9_ndWd_RgZ1HvEIOdybD5gvMnQ/edit?usp=sharing
 1. Using netdiscover to find IP Address
 2. Using nmap -p- -sV 192.168.1.110 to show that SSH is open on the WordPress Server
 3. Using wpscan --url 192.168.1.110/wordpress --enumerate u - to show the 2 users from the wpscan
